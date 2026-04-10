@@ -1,0 +1,26 @@
+{
+  "name": "CC",
+  "slug": "cc",
+  "created_at": "2026-04-10T15:11:00+08:00",
+  "updated_at": "2026-04-10T15:11:00+08:00",
+  "version": "v1",
+  "profile": {
+    "company": "国企同仁堂",
+    "level": "",
+    "role": "",
+    "gender": "男",
+    "mbti": "",
+    "wechat_name": "她的每根脚趾都是我的阿尔卑斯"
+  },
+  "tags": {
+    "personality": ["懂哥", "讨论热点", "自视甚高", "话多", "直接", "爱吐槽"],
+    "culture": [],
+    "impression": "觉得自己理解高人一等"
+  },
+  "source": {
+    "type": "screenshots",
+    "files": 13,
+    "date_range": "2026-03-01 ~ 2026-04-10",
+    "context": "微信群聊 ikun粉丝后援会"
+  }
+}
